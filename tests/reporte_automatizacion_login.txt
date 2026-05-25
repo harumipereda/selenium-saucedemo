@@ -1,0 +1,10 @@
+
+=== REPORTE AUTOMATIZACIÓN LOGIN ===
+
+Usuario: standard_user
+Estado: PASS
+Resultado: Login exitoso
+URL actual: https://www.saucedemo.com/inventory.html
+Navegador: Chrome
+Fecha: 2026-05-25 10:23:33
+Tiempo ejecución: 6.05 segundos
