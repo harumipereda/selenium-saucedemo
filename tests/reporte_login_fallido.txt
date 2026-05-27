@@ -1,0 +1,9 @@
+
+=== REPORTE LOGIN FALLIDO ===
+
+Usuario: usuario_falso
+Estado: PASS
+Resultado: Mensaje de error mostrado correctamente
+Mensaje encontrado: Epic sadface: Username and password do not match any user in this service
+Fecha: 2026-05-27 16:40:24
+Tiempo ejecución: 11.22 segundos
